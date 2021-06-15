@@ -10,7 +10,7 @@
 **/
 public with sharing class DummyClassforTesting {
     public DummyClassforTesting() {
-        System.debug('Testing class 12');
+        System.debug('Testing class 123');
 
     }
 }
